@@ -1,12 +1,19 @@
 ﻿/****************************************************************************
  *                                                                          *
  * File    : main.c                                                         *
+ * Author  : Anderson Frossard
  *                                                                          *
  * Purpose : Console mode (command line) program.                           *
  *                                                                          *
  * History : Date      Reason                                               *
  *           02/10/21  Created                                              *
  *                                                                          *
+ * Kind regards to:															*
+ * AnarkiA BBS																*
+ * OutLaW! BBS																*
+ * AcE!    BBS																*
+ * MutantZ BBS																*
+ * RebelZ  BBS																*
  ****************************************************************************/
 
 

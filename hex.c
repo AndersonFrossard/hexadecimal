@@ -17,12 +17,25 @@
  ****************************************************************************/
 
 
-/*************************** HEADER FILES ***************************/
+/*************************** HEADER ***************************/
 #include <stdio.h>
 #include <limits.h>
 #include <string.h>
 
 // https://www.freecodecamp.org/news/format-specifiers-in-c/
+
+
+
+/*************************** DEFINITIONS ***************************/
+//High intensty text
+#define HGRN "\e[0;92m"
+#define HYEL "\e[0;93m"
+#define HBLU "\e[0;94m"
+#define HMAG "\e[0;95m"
+#define HCYN "\e[0;96m"
+#define HWHT "\e[0;97m"
+#define reset "\e[0m"
+//printf(BRED "Hey this is the color red, and it's bold! \n" reset);
 
 /*********************** FUNCTION DEFINITIONS ***********************/
 int print_hex(char* sentence) {
